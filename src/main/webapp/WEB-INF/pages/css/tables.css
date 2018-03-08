@@ -1,0 +1,27 @@
+.col1{
+    width: 40px;
+}
+
+.col2{
+    width: 100px;
+}
+
+.col3{
+    width: 200px;
+}
+
+.named{
+    text-align: center;
+}
+
+td:first-child{
+    text-align: center;
+}
+
+td:last-child{
+    text-align: center;
+}
+
+.bg-primary th{
+    text-align: center;
+}
